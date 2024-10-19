@@ -1,4 +1,4 @@
-# Types
+# pagination Best Pratice
 
 ## Offset-based Pagination
 The offset base is quite standard and works well in most cases.
@@ -118,7 +118,7 @@ If your dataset grows significantly or has complex filters, combining in-memory 
 - **Pros**: Near real-time performance, scales well with large datasets, handles full-text search efficiently.
 - **Cons**: Increases system complexity and requires extra infrastructure.
 
-
+--- 
 ## Recommendation:
 For large datasets, keyset pagination is typically the best option for performance, especially when dealing with constantly growing data like time sessions or user activity. For smaller datasets, offset-based method should be sufficient.
 
