@@ -1,4 +1,4 @@
-# pagination Best Pratice
+# Pagination Best Pratice
 
 ## Offset-based Pagination
 The offset base is quite standard and works well in most cases.
