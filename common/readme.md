@@ -1,2 +1,1 @@
 - [UUID](https://github.com/MarsXan/Nestjs_Personal_Document/blob/main/common/UUID.md)
-- [CDN](https://github.com/MarsXan/Nestjs_Personal_Document/blob/main/common/CDN.md)
